@@ -1,0 +1,8 @@
+*.class
+*.log
+project/
+target/
+.idea/
+data/
+warehouse/
+
